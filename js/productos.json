@@ -1,0 +1,135 @@
+[
+    {
+        "id": "Alternativo-01",
+        "titulo": "Alternativo 01",
+        "imagen": "./img/Alternativo/01.jpg",
+        "categoria": {
+            "nombre": "Alternativo",
+            "id": "Alternativo"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Alternativo-02",
+        "titulo": "Alternativo 02",
+        "imagen": "./img/Alternativo/02.jpg",
+        "categoria": {
+            "nombre": "Alternativo",
+            "id": "Alternativo"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Alternativo-03",
+        "titulo": "Alternativo 03",
+        "imagen": "./img/Alternativo/03.jpg",
+        "categoria": {
+            "nombre": "Alternativo",
+            "id": "Alternativo"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "Alternativo-04",
+        "titulo": "Alternativo 04",
+        "imagen": "./img/Alternativo/04.jpg",
+        "categoria": {
+            "nombre": "Alternativo",
+            "id": "Alternativo"
+        },
+        "precio": 4500
+    },
+    
+    {
+        "id": "Cuadro-01",
+        "titulo": "Cuadro 01",
+        "imagen": "./img/Cuadro/01.jpg",
+        "categoria": {
+            "nombre": "Cuadro",
+            "id": "Cuadro"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Cuadro-02",
+        "titulo": "Cuadro 02",
+        "imagen": "./img/Cuadro/02.jpg",
+        "categoria": {
+            "nombre": "Cuadro",
+            "id": "Cuadro"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Cuadro-03",
+        "titulo": "Cuadro 03",
+        "imagen": "./img/Cuadro/03.jpg",
+        "categoria": {
+            "nombre": "Cuadro",
+            "id": "Cuadro"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "Cuadro-04",
+        "titulo": "Cuadro 04",
+        "imagen": "./img/Cuadro/04.jpg",
+        "categoria": {
+            "nombre": "Cuadro",
+            "id": "Cuadro"
+        },
+        "precio": 4500
+    },
+    
+    {
+        "id": "Paisajes-01",
+        "titulo": "Paisajes 01",
+        "imagen": "./img/Paisajes/01.jpg",
+        "categoria": {
+            "nombre": "Paisajes",
+            "id": "Paisajes"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Paisajes-02",
+        "titulo": "Paisajes 02",
+        "imagen": "./img/Paisajes/02.jpg",
+        "categoria": {
+            "nombre": "Paisajes",
+            "id": "Paisajes"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Paisajes-03",
+        "titulo": "Paisajes 03",
+        "imagen": "./img/Paisajes/03.jpg",
+        "categoria": {
+            "nombre": "Paisajes",
+            "id": "Paisajes"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "Paisajes-04",
+        "titulo": "Paisajes 04",
+        "imagen": "./img/Paisajes/04.jpg",
+        "categoria": {
+            "nombre": "Paisajes",
+            "id": "Paisajes"
+        },
+        "precio": 4500
+    },
+    
+    {
+       "id": "Paisajess-05",
+     "titulo": "Paisajess 05",
+      "imagen": "./img/Paisajess/05.jpg",
+        "categoria": {
+            "nombre": "Paisajess",
+            "id": "Paisajess"
+        },
+        "precio": 1000
+    }
+]
